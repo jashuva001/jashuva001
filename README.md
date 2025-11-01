@@ -1,4 +1,4 @@
-i am jashuva
+Hi, I'm BANAVATHU JASHUVA 👋
 
 ## About Me
 Welcome to my portfolio! I am a passionate developer with experience in building innovative software solutions. I enjoy working on challenging projects that push the boundaries of technology.
