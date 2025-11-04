@@ -1,4 +1,4 @@
- bolot the statement Hi, I'm BANAVATHU JASHUVA 👋
+  Hi, I'm BANAVATHU JASHUVA 👋
 
 ## About Me
 Welcome to my portfolio! I am a passionate developer with experience in building innovative software solutions. I enjoy working on challenging projects that push the boundaries of technology.
@@ -9,6 +9,8 @@ Welcome to my portfolio! I am a passionate developer with experience in building
 - **Database:** MySQL, MongoDB, PostgreSQL
 - **Tools & Technologies:** Git, Docker, AWS, CI/CD
 - **Other:** Machine Learning, Data Analysis, API Development
+- java python javascript html c++ images
+  
 
 ## Contact
 📧 Email: contact@example.com
