@@ -13,7 +13,7 @@ Welcome to my portfolio! I am a passionate developer with experience in building
   
 
 ## Contact
-📧 Email: contact@example.com
+📧 Email: jashuvabanavathu@gmail.com
 
 Feel free to reach out for collaboration opportunities or project inquiries!
 
