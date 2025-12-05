@@ -17,16 +17,7 @@ Welcome to my portfolio! I am a passionate developer with experience in building
 
 Feel free to reach out for collaboration opportunities or project inquiries!
 
-## Sample Projects
 
-### Project 1: Coming Soon
-Description and link will be added here.
-
-### Project 2: Coming Soon
-Description and link will be added here.
-
-### Project 3: Coming Soon
-Description and link will be added here.
 
 ---
 
